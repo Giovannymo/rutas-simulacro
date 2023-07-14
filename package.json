@@ -1,0 +1,11 @@
+{
+  "name": "simulacro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "json:server": "json-server --watch bd.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
